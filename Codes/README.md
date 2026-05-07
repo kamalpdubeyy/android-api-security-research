@@ -1,22 +1,23 @@
-# Android API Security Research
+# Source Code
 
-This project demonstrates practical evaluation of API security vulnerabilities and mitigation techniques in Android applications.
+This folder contains the implementation files for the Android API Security Research project.
 
-## Features
-- JWT Authentication
-- API Security Testing
-- BOLA Vulnerability Simulation
-- Secure vs Insecure API Comparison
+## Contents
+- Android application source code
+- API implementation
+- Authentication logic
+- Secure and insecure API configurations
+- JWT authentication mechanisms
 
-## Technologies
+## Technologies Used
 - Kotlin
 - Android Studio
 - Node.js
 - Express.js
 - SQLite
 
-## Security Areas
-- Application Security
+## Security Focus Areas
 - API Security
-- OWASP API Security
-- Mobile Security Testing
+- Authentication & Authorization
+- BOLA Vulnerability Testing
+- Secure API Design
